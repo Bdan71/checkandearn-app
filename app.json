@@ -7,10 +7,10 @@
     "scheme": "checkandearn",
     "userInterfaceStyle": "automatic",
 
-    "icon": "./assets/images/icon-1024.png",
+    "icon": "./assets/images/icon.png",
 
     "splash": {
-      "image": "./assets/images/splash-icon-1024.png",
+      "image": "./assets/images/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#2563EB"
     },
@@ -39,7 +39,7 @@
         "ACCESS_FINE_LOCATION"
       ],
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/icon-1024.png",
+        "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#2563EB"
       }
     },
